@@ -1,9 +1,5 @@
 #!/usr/bin/env python
 # coding: utf-8
-
-# In[70]:
-
-
 # IS211_Assignment 3
 # Fall 2019
 
@@ -97,10 +93,3 @@ def main():
 if __name__ == '__main__':
 
     main()
-
-
-# In[ ]:
-
-
-
-
